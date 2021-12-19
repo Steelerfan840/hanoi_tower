@@ -1,7 +1,5 @@
 # Hanoi Tower Challenge
-##A Javascript Algorithm to Solve
-
-<br>
+## A Javascript Algorithm to Solve
 <img src = "screenshot.png" width = "300"/>
 
 
